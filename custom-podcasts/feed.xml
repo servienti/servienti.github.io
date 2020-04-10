@@ -29,5 +29,16 @@
       <itunes:duration>0:22:47</itunes:duration>
       <pubDate>Fri, 10 Apr 2020 00:00:00 CEST</pubDate>
     </item>
+    <item>
+      <title>Diamo i numeri - Spazio Aperto EP08 S2020</title>
+      <description>Diamo i numeri - Spazio Aperto EP08 S2020</description>
+      <itunes:summary>Diamo i numeri - Spazio Aperto EP08 S2020</itunes:summary>
+      <itunes:subtitle>Diamo i numeri - Spazio Aperto EP08 S2020</itunes:subtitle>
+      <itunesu:category itunesu:code="112" />
+      <enclosure url="https://1drv.ms/u/s!Au3DM_mZl0flna4l2x59DzFC9Ud1hA" type="audio/mpeg" length="1" />
+      <guid>https://1drv.ms/u/s!Au3DM_mZl0flna4l2x59DzFC9Ud1hA</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 CEST</pubDate>
+    </item>
   </channel>
 </rss>
